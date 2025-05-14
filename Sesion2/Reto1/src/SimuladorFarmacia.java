@@ -5,7 +5,7 @@ public class SimuladorFarmacia {
 
         System.out.println("\uD83D\uDC8A -- FARMACIA NOMILARES -- \uD83D\uDC8A");
         System.out.println("Nombre del medicamento: ");
-        String name = scn.nextLine(); // nombre del medicamento
+        var name = scn.nextLine(); // nombre del medicamento
         System.out.println("Precio unitario: ");
         double price = scn.nextDouble(); // precio del medicamento
         System.out.println("Cantidad de piezas: ");
