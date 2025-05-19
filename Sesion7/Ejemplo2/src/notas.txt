@@ -1,2 +1,0 @@
-📘 Este es un archivo de prueba.
-Aquí aprendemos a escribir y leer en Java.
